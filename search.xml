@@ -4,16 +4,111 @@
   
     
     <entry>
-      <title>Cagur的第一篇文章</title>
-      <link href="/2022/12/15/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
-      <url>/2022/12/15/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
+      <title>闲聊杂谈--我的hexo博客搭建过程</title>
+      <link href="/2022/12/16/%E7%AC%AC%E5%85%AD%E7%AF%87/"/>
+      <url>/2022/12/16/%E7%AC%AC%E5%85%AD%E7%AF%87/</url>
       
-        <content type="html"><![CDATA[<h2 id="Cagur的第一篇文章"><a href="#Cagur的第一篇文章" class="headerlink" title="Cagur的第一篇文章"></a>Cagur的第一篇文章</h2><p>this is my first passage.<br>What I want to say is hello.</p><h2 id=""><a href="#" class="headerlink" title=""></a></h2>]]></content>
+        <content type="html"><![CDATA[<h2 id="闲聊杂谈–我的hexo博客搭建过程"><a href="#闲聊杂谈–我的hexo博客搭建过程" class="headerlink" title="闲聊杂谈–我的hexo博客搭建过程"></a>闲聊杂谈–我的hexo博客搭建过程</h2><p>闲聊杂谈–我的hexo博客搭建过程</p><h2 id="我爱博客，我爱分享，我爱编程"><a href="#我爱博客，我爱分享，我爱编程" class="headerlink" title="我爱博客，我爱分享，我爱编程"></a>我爱博客，我爱分享，我爱编程</h2>]]></content>
       
       
       <categories>
           
-          <category> CSer </category>
+          <category> 闲聊杂谈 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>WEB前端学习</title>
+      <link href="/2022/12/15/%E7%AC%AC%E4%BA%94%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+      <url>/2022/12/15/%E7%AC%AC%E4%BA%94%E7%AF%87%E6%96%87%E7%AB%A0/</url>
+      
+        <content type="html"><![CDATA[<h2 id="WEB前端"><a href="#WEB前端" class="headerlink" title="WEB前端"></a>WEB前端</h2><p>WEB前端</p><h2 id="MIT-WEBLAB-我来啦"><a href="#MIT-WEBLAB-我来啦" class="headerlink" title="MIT WEBLAB 我来啦"></a>MIT WEBLAB 我来啦</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> WEB前端 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>JAVA后端开发小白来咯</title>
+      <link href="/2022/12/15/%E7%AC%AC%E5%9B%9B%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+      <url>/2022/12/15/%E7%AC%AC%E5%9B%9B%E7%AF%87%E6%96%87%E7%AB%A0/</url>
+      
+        <content type="html"><![CDATA[<h2 id="JAVA后端开发小白来咯"><a href="#JAVA后端开发小白来咯" class="headerlink" title="JAVA后端开发小白来咯"></a>JAVA后端开发小白来咯</h2><p>JAVA后端开发小白来咯</p><h2 id="我爱JAVA，我爱后端开发，我要成为大神"><a href="#我爱JAVA，我爱后端开发，我要成为大神" class="headerlink" title="我爱JAVA，我爱后端开发，我要成为大神"></a>我爱JAVA，我爱后端开发，我要成为大神</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> JAVA后端 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>C++项目--基于多态的职工管理系统</title>
+      <link href="/2022/12/15/%E7%AC%AC%E4%B8%89%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+      <url>/2022/12/15/%E7%AC%AC%E4%B8%89%E7%AF%87%E6%96%87%E7%AB%A0/</url>
+      
+        <content type="html"><![CDATA[<h2 id="C-项目–基于多态的职工管理系统"><a href="#C-项目–基于多态的职工管理系统" class="headerlink" title="C++项目–基于多态的职工管理系统"></a>C++项目–基于多态的职工管理系统</h2><p>C++项目–基于多态的职工管理系统</p><h2 id="我爱C-，我爱学习，我爱编程"><a href="#我爱C-，我爱学习，我爱编程" class="headerlink" title="我爱C++，我爱学习，我爱编程"></a>我爱C++，我爱学习，我爱编程</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> 项目 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>算法--线段树和树状数组</title>
+      <link href="/2022/12/15/%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+      <url>/2022/12/15/%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0/</url>
+      
+        <content type="html"><![CDATA[<h2 id="算法–线段树和树状数组"><a href="#算法–线段树和树状数组" class="headerlink" title="算法–线段树和树状数组"></a>算法–线段树和树状数组</h2><p>算法–线段树和树状数组</p><h2 id="我爱蓝桥杯"><a href="#我爱蓝桥杯" class="headerlink" title="我爱蓝桥杯"></a>我爱蓝桥杯</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> 算法 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>C++ Primer第二章笔记</title>
+      <link href="/2022/12/15/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+      <url>/2022/12/15/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
+      
+        <content type="html"><![CDATA[<h2 id="C-Primer第二章笔记"><a href="#C-Primer第二章笔记" class="headerlink" title="C++ Primer第二章笔记"></a>C++ Primer第二章笔记</h2><p>C++ Primer第二章笔记</p><h2 id="C-Primer第二章笔记-1"><a href="#C-Primer第二章笔记-1" class="headerlink" title="C++ Primer第二章笔记"></a>C++ Primer第二章笔记</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> C++ </category>
           
       </categories>
       
